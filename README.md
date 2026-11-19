@@ -1,9 +1,10 @@
 # Keepsake — Responsive Landing Page
 
-Адаптивний односторінковий лендінг дизайн-агенції **Keepsake**, виконаний у межах Лабораторної роботи №7 з використанням суто **HTML5** та **CSS3** (без сторонніх UI-бібліотек і фреймворків).
+Адаптивний односторінковий лендінг дизайн-агенції **Keepsake** (Mobile First, HTML5, CSS Grid/Flexbox, CSS-змінні, WebP).
 
-## Демо
-- GitHub Pages: `https://<your-username>.github.io/landing-keepsake/`
+## Посилання
+* **Живий сайт (GitHub Pages):** https://bodnarihor-tech.github.io/landing-keepsake/
+* **Репозиторій:** https://github.com/bodnarihor-tech/landing-keepsake
 
 ## Основні рішення та технології
 - **Підхід Mobile First:** базові стилі розраховані на мобільні екрани (від `320px` / `375px`), адаптація реалізована через `@media (min-width: 768px)` та `@media (min-width: 1280px)`, максимальна ширина контейнера — `1100px`.
